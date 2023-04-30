@@ -27,7 +27,7 @@ import RxBtn from './path/to/RxBtn';
 | ---- | :--: | :-----: | :------: | :---------- |
 
 | color | string | blue-500 | No | The background color of the button. |
-|fontType|string|font-medium|No|The font type of the button.|
+| fontType | string | font-medium | No | The font type of the button. |
 |size|string|py-2 px-4|No|The size of the button.|
 |children|React.ReactNode|-|Yes|The content of the button.|
 |props|React.ButtonHTMLAttributes<HTMLButtonElement>|-|No Additional button props.|
