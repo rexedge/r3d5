@@ -1,4 +1,18 @@
-# r3d5
+# r3d5 - Components
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Open [http://localhost:7335](http://localhost:7335) with your browser to see the result.
 
 ## Major and Minor Components for UI and Layout and others
 
@@ -54,17 +68,3 @@ import RxBtn from './path/to/RxBtn';
 	Click me
 </RxBtn>;
 ```
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:7335](http://localhost:7335) with your browser to see the result.
